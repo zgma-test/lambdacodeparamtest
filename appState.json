@@ -1,0 +1,93 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "fa4e68a0-c955-4c79-869d-df4ba165cefd": {
+        "id": "fa4e68a0-c955-4c79-869d-df4ba165cefd",
+        "parent": null,
+        "name": "LambdaCodeParamTest.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "LambdaCodeParamTest.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "LambdaCodeParamTest"
+        },
+        "triggers": []
+      },
+      "485c1c27-a190-441d-9843-badbf0af8416": {
+        "id": "485c1c27-a190-441d-9843-badbf0af8416",
+        "parent": null,
+        "name": "PyLambdaCodeParam.py",
+        "type": "PYTHON_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "PyLambdaCodeParam.py",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "python3.8",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "PyLambdaCodeParam"
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "fa4e68a0-c955-4c79-869d-df4ba165cefd",
+      "485c1c27-a190-441d-9843-badbf0af8416"
+    ],
+    "currentFileId": "485c1c27-a190-441d-9843-badbf0af8416",
+    "resources": {},
+    "customTemplate": {
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "LambdaCodeParamTest",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1591701245088
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "lambdacodeparamtest",
+      "url": "https://github.com/zgma-test/lambdacodeparamtest"
+    }
+  }
+}
